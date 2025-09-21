@@ -15,10 +15,28 @@ An opinionated and pragmatic Kotlin Multiplatform template for building modern a
 
 ### Networking
 
+### Serialization
+
 ### Local key-value storage
 
 ### Local database
 
+### Locale & System info
+
+### BuildConfigProvider
+
+### Localization
+
+### Image loading
+
+### Logging
+
+### Coroutines Dispatchers
+
+### Cryptography
+
 ## Testing
 
 ### Unit testing
+
+### Test fixtures
